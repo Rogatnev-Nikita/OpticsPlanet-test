@@ -23,3 +23,6 @@ After zip code is entered and focus has left zip code input box, the following s
 </ul>
 Don't spend too much time on one area if you get stuck - just make a comment and move on.<br>
 Hint: http://samo.org/op/zip/60062/60647/
+
+<h4>Result:</h4>
+http://rogatnev-nikita.github.io/OpticsPlanet-test
