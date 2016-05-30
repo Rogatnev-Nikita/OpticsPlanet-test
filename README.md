@@ -17,7 +17,7 @@ After zip code is entered and focus has left zip code input box, the following s
 * It should be trivial to add or remove a warehouse zip, and then reload;
 * Consider warning/error msgs;
 * Be creative with UI.
-* 
+
 Don't spend too much time on one area if you get stuck - just make a comment and move on.<br>
 Hint: http://samo.org/op/zip/60062/60647/
 
